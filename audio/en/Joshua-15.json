@@ -1,0 +1,389 @@
+{
+ "book": "Joshua",
+ "chapter": 15,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Joshua-15.mp3",
+ "duration": 396.0,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 10.17,
+   "text": "The land given by lot to the tribe of Judah, clan by clan, reached south to the border of Edom, to the Desert of Zin at the far south."
+  },
+  {
+   "verse": 2,
+   "start": 10.87,
+   "end": 15.9,
+   "text": "Their southern border began at the southern tip of the Dead Sea, at the bay facing south."
+  },
+  {
+   "verse": 3,
+   "start": 16.6,
+   "end": 27.51,
+   "text": "It went south of Scorpion Pass, on to Zin, and up to the south of Kadesh Barnea. Then it ran past Hezron, up to Addar, and curved around to Karka."
+  },
+  {
+   "verse": 4,
+   "start": 28.21,
+   "end": 34.79,
+   "text": "It went on to Azmon and followed the Wadi of Egypt, ending at the sea. This was their southern border."
+  },
+  {
+   "verse": 5,
+   "start": 35.49,
+   "end": 43.97,
+   "text": "The eastern border was the Dead Sea, up to the mouth of the Jordan. The northern border began at the bay of the sea where the Jordan flows in."
+  },
+  {
+   "verse": 6,
+   "start": 44.67,
+   "end": 50.87,
+   "text": "It went up to Beth Hoglah and passed north of Beth Arabah, up to the Stone of Bohan son of Reuben."
+  },
+  {
+   "verse": 7,
+   "start": 51.57,
+   "end": 64.91,
+   "text": "Then it went up to Debir from the Valley of Achor and turned north toward Gilgal, which faces the Pass of Adummim, south of the valley. It went on to the waters of En Shemesh and ended at En Rogel."
+  },
+  {
+   "verse": 8,
+   "start": 65.61,
+   "end": 79.55,
+   "text": "Then the border went up the Valley of Ben Hinnom along the southern slope of the Jebusite city, which is Jerusalem. From there it climbed to the top of the hill west of the Hinnom Valley, at the northern end of the Valley of Rephaim."
+  },
+  {
+   "verse": 9,
+   "start": 80.25,
+   "end": 90.46,
+   "text": "From the hilltop the border went to the spring of the waters of Nephtoah, on to the towns of Mount Ephron, and down toward Baalah, which is Kiriath Jearim."
+  },
+  {
+   "verse": 10,
+   "start": 91.16,
+   "end": 102.32,
+   "text": "Then it curved west from Baalah to Mount Seir, ran along the northern slope of Mount Jearim, which is Kesalon, went down to Beth Shemesh and crossed to Timnah."
+  },
+  {
+   "verse": 11,
+   "start": 103.02,
+   "end": 113.79,
+   "text": "It went on to the northern slope of Ekron, turned toward Shikkeron, passed along to Mount Baalah, reached Jabneel, and ended at the sea."
+  },
+  {
+   "verse": 12,
+   "start": 114.49,
+   "end": 122.19,
+   "text": "The western border was the coast of the Great Sea. These were the borders around the land of the people of Judah, clan by clan."
+  },
+  {
+   "verse": 13,
+   "start": 122.89,
+   "end": 136.62,
+   "text": "As the LORD had commanded Joshua, he gave Caleb son of Jephunneh a share of land among the people of Judah. It was Kiriath Arba, which is Hebron. Arba was the father of Anak."
+  },
+  {
+   "verse": 14,
+   "start": 137.32,
+   "end": 144.29,
+   "text": "Caleb drove out the three Anakites from Hebron: Sheshai, Ahiman and Talmai, descendants of Anak."
+  },
+  {
+   "verse": 15,
+   "start": 144.99,
+   "end": 150.51,
+   "text": "From there he marched against the people living in Debir, which used to be called Kiriath Sepher."
+  },
+  {
+   "verse": 16,
+   "start": 151.21,
+   "end": 158.45,
+   "text": "Caleb said, \"I will give my daughter Aksah in marriage to the man who attacks and captures Kiriath Sepher.\""
+  },
+  {
+   "verse": 17,
+   "start": 159.15,
+   "end": 166.77,
+   "text": "Othniel son of Kenaz, Caleb's brother, captured it, so Caleb gave him his daughter Aksah as his wife."
+  },
+  {
+   "verse": 18,
+   "start": 167.47,
+   "end": 176.35,
+   "text": "When she came to Othniel, she urged him to ask her father for a field. When she got down from her donkey, Caleb asked her, \"What do you want?\""
+  },
+  {
+   "verse": 19,
+   "start": 177.05,
+   "end": 186.73,
+   "text": "She answered, \"Do me a special favour. Since you have given me land in the dry south, give me springs of water too.\" So Caleb gave her the upper and lower springs."
+  },
+  {
+   "verse": 20,
+   "start": 187.43,
+   "end": 191.15,
+   "text": "This is the land given to the tribe of Judah, clan by clan."
+  },
+  {
+   "verse": 21,
+   "start": 191.85,
+   "end": 198.18,
+   "text": "Their towns in the far south, toward the border of Edom, were Kabzeel, Eder, Jagur,"
+  },
+  {
+   "verse": 22,
+   "start": 198.88,
+   "end": 201.59,
+   "text": "Kinah, Dimonah, Adadah,"
+  },
+  {
+   "verse": 23,
+   "start": 202.29,
+   "end": 205.03,
+   "text": "Kedesh, Hazor, Ithnan,"
+  },
+  {
+   "verse": 24,
+   "start": 205.73,
+   "end": 208.05,
+   "text": "Ziph, Telem, Bealoth,"
+  },
+  {
+   "verse": 25,
+   "start": 208.75,
+   "end": 212.91,
+   "text": "Hazor Hadattah, Kerioth Hezron, which is Hazor,"
+  },
+  {
+   "verse": 26,
+   "start": 213.61,
+   "end": 215.81,
+   "text": "Amam, Shema, Moladah,"
+  },
+  {
+   "verse": 27,
+   "start": 216.51,
+   "end": 219.29,
+   "text": "Hazar Gaddah, Heshmon, Beth Pelet,"
+  },
+  {
+   "verse": 28,
+   "start": 219.99,
+   "end": 223.48,
+   "text": "Hazar Shual, Beersheba, Biziothiah,"
+  },
+  {
+   "verse": 29,
+   "start": 224.18,
+   "end": 225.83,
+   "text": "Baalah, Iim, Ezem,"
+  },
+  {
+   "verse": 30,
+   "start": 226.53,
+   "end": 228.63,
+   "text": "Eltolad, Kesil, Hormah,"
+  },
+  {
+   "verse": 31,
+   "start": 229.33,
+   "end": 232.16,
+   "text": "Ziklag, Madmannah, Sansannah,"
+  },
+  {
+   "verse": 32,
+   "start": 232.86,
+   "end": 239.73,
+   "text": "Lebaoth, Shilhim, Ain and Rimmon. In all there were twenty-nine towns and their villages."
+  },
+  {
+   "verse": 33,
+   "start": 240.43,
+   "end": 244.59,
+   "text": "In the western foothills were Eshtaol, Zorah, Ashnah,"
+  },
+  {
+   "verse": 34,
+   "start": 245.29,
+   "end": 248.67,
+   "text": "Zanoah, En Gannim, Tappuah, Enam,"
+  },
+  {
+   "verse": 35,
+   "start": 249.37,
+   "end": 252.94,
+   "text": "Jarmuth, Adullam, Sokoh, Azekah,"
+  },
+  {
+   "verse": 36,
+   "start": 253.64,
+   "end": 261.94,
+   "text": "Shaaraim, Adithaim and Gederah, also called Gederothaim. There were fourteen towns and their villages."
+  },
+  {
+   "verse": 37,
+   "start": 262.64,
+   "end": 265.63,
+   "text": "Then Zenan, Hadashah, Migdal Gad,"
+  },
+  {
+   "verse": 38,
+   "start": 266.33,
+   "end": 269.04,
+   "text": "Dilean, Mizpah, Joktheel,"
+  },
+  {
+   "verse": 39,
+   "start": 269.74,
+   "end": 272.46,
+   "text": "Lachish, Bozkath, Eglon,"
+  },
+  {
+   "verse": 40,
+   "start": 273.16,
+   "end": 275.75,
+   "text": "Kabbon, Lahmas, Kitlish,"
+  },
+  {
+   "verse": 41,
+   "start": 276.45,
+   "end": 283.27,
+   "text": "Gederoth, Beth Dagon, Naamah and Makkedah. There were sixteen towns and their villages."
+  },
+  {
+   "verse": 42,
+   "start": 283.97,
+   "end": 286.41,
+   "text": "Then Libnah, Ether, Ashan,"
+  },
+  {
+   "verse": 43,
+   "start": 287.11,
+   "end": 289.47,
+   "text": "Iphtah, Ashnah, Nezib,"
+  },
+  {
+   "verse": 44,
+   "start": 290.17,
+   "end": 294.49,
+   "text": "Keilah, Akzib and Mareshah. There were nine towns and their villages."
+  },
+  {
+   "verse": 45,
+   "start": 295.19,
+   "end": 297.9,
+   "text": "Then Ekron, with its towns and villages,"
+  },
+  {
+   "verse": 46,
+   "start": 298.6,
+   "end": 302.23,
+   "text": "and everything west of Ekron near Ashdod, with their villages."
+  },
+  {
+   "verse": 47,
+   "start": 302.93,
+   "end": 311.9,
+   "text": "Then Ashdod with its towns and villages, and Gaza with its towns and villages, as far as the Wadi of Egypt and the coast of the Great Sea."
+  },
+  {
+   "verse": 48,
+   "start": 312.6,
+   "end": 316.08,
+   "text": "In the hill country were Shamir, Jattir, Sokoh,"
+  },
+  {
+   "verse": 49,
+   "start": 316.78,
+   "end": 319.86,
+   "text": "Dannah, Kiriath Sannah, which is Debir,"
+  },
+  {
+   "verse": 50,
+   "start": 320.56,
+   "end": 322.91,
+   "text": "Anab, Eshtemoh, Anim,"
+  },
+  {
+   "verse": 51,
+   "start": 323.61,
+   "end": 329.27,
+   "text": "Goshen, Holon and Giloh. There were eleven towns and their villages."
+  },
+  {
+   "verse": 52,
+   "start": 329.97,
+   "end": 332.26,
+   "text": "Then Arab, Dumah, Eshan,"
+  },
+  {
+   "verse": 53,
+   "start": 332.96,
+   "end": 336.06,
+   "text": "Janim, Beth Tappuah, Aphekah,"
+  },
+  {
+   "verse": 54,
+   "start": 336.76,
+   "end": 343.6,
+   "text": "Humtah, Kiriath Arba, which is Hebron, and Zior. There were nine towns and their villages."
+  },
+  {
+   "verse": 55,
+   "start": 344.3,
+   "end": 347.6,
+   "text": "Then Maon, Carmel, Ziph, Juttah,"
+  },
+  {
+   "verse": 56,
+   "start": 348.3,
+   "end": 350.76,
+   "text": "Jezreel, Jokdeam, Zanoah,"
+  },
+  {
+   "verse": 57,
+   "start": 351.46,
+   "end": 356.63,
+   "text": "Kain, Gibeah and Timnah. There were ten towns and their villages."
+  },
+  {
+   "verse": 58,
+   "start": 357.33,
+   "end": 360.11,
+   "text": "Then Halhul, Beth Zur, Gedor,"
+  },
+  {
+   "verse": 59,
+   "start": 360.81,
+   "end": 366.14,
+   "text": "Maarath, Beth Anoth and Eltekon. There were six towns and their villages."
+  },
+  {
+   "verse": 60,
+   "start": 366.84,
+   "end": 374.26,
+   "text": "Then Kiriath Baal, which is Kiriath Jearim, and Rabbah. There were two towns and their villages."
+  },
+  {
+   "verse": 61,
+   "start": 374.96,
+   "end": 378.46,
+   "text": "In the desert were Beth Arabah, Middin, Sekakah,"
+  },
+  {
+   "verse": 62,
+   "start": 379.16,
+   "end": 386.21,
+   "text": "Nibshan, the City of Salt, and En Gedi. There were six towns and their villages."
+  },
+  {
+   "verse": 63,
+   "start": 386.91,
+   "end": 394.94,
+   "text": "But the people of Judah could not drive out the Jebusites who lived in Jerusalem. So the Jebusites still live there with the people of Judah today."
+  }
+ ]
+}

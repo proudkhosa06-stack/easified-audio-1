@@ -1,0 +1,65 @@
+{
+ "book": "Joshua",
+ "chapter": 20,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Joshua-20.mp3",
+ "duration": 99.1,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 1.93,
+   "text": "Then the LORD said to Joshua,"
+  },
+  {
+   "verse": 2,
+   "start": 2.63,
+   "end": 7.32,
+   "text": "\"Tell the Israelites to choose the cities of safety that I told you about through Moses."
+  },
+  {
+   "verse": 3,
+   "start": 8.02,
+   "end": 18.56,
+   "text": "Anyone who kills a person by accident, without meaning to, can run to one of these cities. There they will be safe from the relative who wants to take revenge for the death."
+  },
+  {
+   "verse": 4,
+   "start": 19.26,
+   "end": 32.84,
+   "text": "The person must run to one of these cities, stand at the entrance of the city gate, and explain what happened to the leaders of that city. Then the leaders must take them into the city and give them a place to live among them."
+  },
+  {
+   "verse": 5,
+   "start": 33.54,
+   "end": 43.8,
+   "text": "If the relative seeking revenge chases them, the leaders must not hand the person over, because they killed their neighbour by accident and did not hate them before."
+  },
+  {
+   "verse": 6,
+   "start": 44.5,
+   "end": 57.14,
+   "text": "They must stay in that city until they have stood trial before the community, and until the death of the high priest serving at that time. Then they may go back to their own home in the town they ran from.\""
+  },
+  {
+   "verse": 7,
+   "start": 57.84,
+   "end": 70.76,
+   "text": "So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath Arba, which is Hebron, in the hill country of Judah."
+  },
+  {
+   "verse": 8,
+   "start": 71.46,
+   "end": 84.68,
+   "text": "East of the Jordan, across from Jericho, they chose Bezer in the desert plain from the tribe of Reuben, Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh."
+  },
+  {
+   "verse": 9,
+   "start": 85.38,
+   "end": 98.04,
+   "text": "These were the cities chosen for all the Israelites and for any foreigners living among them. Anyone who killed a person by accident could run there and not be killed by the relative seeking revenge before standing trial before the community."
+  }
+ ]
+}

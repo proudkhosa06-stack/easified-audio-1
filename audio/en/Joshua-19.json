@@ -1,0 +1,317 @@
+{
+ "book": "Joshua",
+ "chapter": 19,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Joshua-19.mp3",
+ "duration": 332.57,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 6.92,
+   "text": "The second lot came out for the tribe of Simeon, clan by clan. Their land lay inside the land of Judah."
+  },
+  {
+   "verse": 2,
+   "start": 7.62,
+   "end": 12.77,
+   "text": "Their land included Beersheba, also called Sheba, Moladah,"
+  },
+  {
+   "verse": 3,
+   "start": 13.47,
+   "end": 15.88,
+   "text": "Hazar Shual, Balah, Ezem,"
+  },
+  {
+   "verse": 4,
+   "start": 16.58,
+   "end": 19.21,
+   "text": "Eltolad, Bethul, Hormah,"
+  },
+  {
+   "verse": 5,
+   "start": 19.91,
+   "end": 23.36,
+   "text": "Ziklag, Beth Markaboth, Hazar Susah,"
+  },
+  {
+   "verse": 6,
+   "start": 24.06,
+   "end": 28.97,
+   "text": "Beth Lebaoth and Sharuhen. There were thirteen towns and their villages."
+  },
+  {
+   "verse": 7,
+   "start": 29.67,
+   "end": 35.42,
+   "text": "Then Ain, Rimmon, Ether and Ashan. There were four towns and their villages,"
+  },
+  {
+   "verse": 8,
+   "start": 36.12,
+   "end": 45.54,
+   "text": "and all the villages around these towns as far as Baalath Beer, which is Ramah in the south. This was the land of the tribe of Simeon, clan by clan."
+  },
+  {
+   "verse": 9,
+   "start": 46.24,
+   "end": 55.76,
+   "text": "Simeon's land was taken from Judah's share, because Judah had more land than it needed. So the people of Simeon received their land inside Judah's land."
+  },
+  {
+   "verse": 10,
+   "start": 56.46,
+   "end": 62.38,
+   "text": "The third lot came out for Zebulun, clan by clan. Their border went as far as Sarid."
+  },
+  {
+   "verse": 11,
+   "start": 63.08,
+   "end": 69.0,
+   "text": "It went west to Maralah, touched Dabbesheth, and reached the ravine near Jokneam."
+  },
+  {
+   "verse": 12,
+   "start": 69.7,
+   "end": 77.53,
+   "text": "From Sarid it turned east toward the sunrise to the land of Kisloth Tabor, went on to Daberath and up to Japhia."
+  },
+  {
+   "verse": 13,
+   "start": 78.23,
+   "end": 84.69,
+   "text": "From there it went east to Gath Hepher and Eth Kazin, came out at Rimmon, and turned toward Neah."
+  },
+  {
+   "verse": 14,
+   "start": 85.39,
+   "end": 90.68,
+   "text": "On the north the border went around to Hannathon and ended at the Valley of Iphtah El."
+  },
+  {
+   "verse": 15,
+   "start": 91.38,
+   "end": 99.55,
+   "text": "It included Kattath, Nahalal, Shimron, Idalah and Bethlehem. There were twelve towns and their villages."
+  },
+  {
+   "verse": 16,
+   "start": 100.25,
+   "end": 105.26,
+   "text": "These towns and their villages were the land of Zebulun, clan by clan."
+  },
+  {
+   "verse": 17,
+   "start": 105.96,
+   "end": 109.55,
+   "text": "The fourth lot came out for Issachar, clan by clan."
+  },
+  {
+   "verse": 18,
+   "start": 110.25,
+   "end": 113.73,
+   "text": "Their land included Jezreel, Kesulloth, Shunem,"
+  },
+  {
+   "verse": 19,
+   "start": 114.43,
+   "end": 117.09,
+   "text": "Hapharaim, Shion, Anaharath,"
+  },
+  {
+   "verse": 20,
+   "start": 117.79,
+   "end": 120.05,
+   "text": "Rabbith, Kishion, Ebez,"
+  },
+  {
+   "verse": 21,
+   "start": 120.75,
+   "end": 124.65,
+   "text": "Remeth, En Gannim, En Haddah and Beth Pazzez."
+  },
+  {
+   "verse": 22,
+   "start": 125.35,
+   "end": 133.42,
+   "text": "The border touched Tabor, Shahazumah and Beth Shemesh, and ended at the Jordan. There were sixteen towns and their villages."
+  },
+  {
+   "verse": 23,
+   "start": 134.12,
+   "end": 139.45,
+   "text": "These towns and their villages were the land of the tribe of Issachar, clan by clan."
+  },
+  {
+   "verse": 24,
+   "start": 140.15,
+   "end": 144.3,
+   "text": "The fifth lot came out for the tribe of Asher, clan by clan."
+  },
+  {
+   "verse": 25,
+   "start": 145.0,
+   "end": 149.05,
+   "text": "Their land included Helkath, Hali, Beten, Akshaph,"
+  },
+  {
+   "verse": 26,
+   "start": 149.75,
+   "end": 156.16,
+   "text": "Allammelek, Amad and Mishal. On the west the border touched Carmel and Shihor Libnath."
+  },
+  {
+   "verse": 27,
+   "start": 156.86,
+   "end": 167.13,
+   "text": "Then it turned east toward Beth Dagon, touched Zebulun and the Valley of Iphtah El, and went north to Beth Emek and Neiel, passing Kabul on the left."
+  },
+  {
+   "verse": 28,
+   "start": 167.83,
+   "end": 173.28,
+   "text": "It went to Abdon, Rehob, Hammon and Kanah, as far as Greater Sidon."
+  },
+  {
+   "verse": 29,
+   "start": 173.98,
+   "end": 183.22,
+   "text": "Then the border turned back toward Ramah and went to the walled city of Tyre. It turned toward Hosah and ended at the sea, in the region of Akzib."
+  },
+  {
+   "verse": 30,
+   "start": 183.92,
+   "end": 189.64,
+   "text": "It also included Ummah, Aphek and Rehob. There were twenty-two towns and their villages."
+  },
+  {
+   "verse": 31,
+   "start": 190.34,
+   "end": 195.83,
+   "text": "These towns and their villages were the land of the tribe of Asher, clan by clan."
+  },
+  {
+   "verse": 32,
+   "start": 196.53,
+   "end": 200.14,
+   "text": "The sixth lot came out for Naphtali, clan by clan."
+  },
+  {
+   "verse": 33,
+   "start": 200.84,
+   "end": 210.02,
+   "text": "Their border went from Heleph and the big tree in Zaanannim, past Adami Nekeb and Jabneel to Lakkum, and ended at the Jordan."
+  },
+  {
+   "verse": 34,
+   "start": 210.72,
+   "end": 221.91,
+   "text": "Then the border went west through Aznoth Tabor and on to Hukkok. It touched Zebulun on the south, Asher on the west, and Judah at the Jordan on the east."
+  },
+  {
+   "verse": 35,
+   "start": 222.61,
+   "end": 227.57,
+   "text": "The walled towns were Ziddim, Zer, Hammath, Rakkath, Kinnereth,"
+  },
+  {
+   "verse": 36,
+   "start": 228.27,
+   "end": 230.57,
+   "text": "Adamah, Ramah, Hazor,"
+  },
+  {
+   "verse": 37,
+   "start": 231.27,
+   "end": 234.22,
+   "text": "Kedesh, Edrei, En Hazor,"
+  },
+  {
+   "verse": 38,
+   "start": 234.92,
+   "end": 242.81,
+   "text": "Iron, Migdal El, Horem, Beth Anath and Beth Shemesh. There were nineteen towns and their villages."
+  },
+  {
+   "verse": 39,
+   "start": 243.51,
+   "end": 249.06,
+   "text": "These towns and their villages were the land of the tribe of Naphtali, clan by clan."
+  },
+  {
+   "verse": 40,
+   "start": 249.76,
+   "end": 254.03,
+   "text": "The seventh lot came out for the tribe of Dan, clan by clan."
+  },
+  {
+   "verse": 41,
+   "start": 254.73,
+   "end": 258.43,
+   "text": "Their land included Zorah, Eshtaol, Ir Shemesh,"
+  },
+  {
+   "verse": 42,
+   "start": 259.13,
+   "end": 262.12,
+   "text": "Shaalabbin, Aijalon, Ithlah,"
+  },
+  {
+   "verse": 43,
+   "start": 262.82,
+   "end": 264.64,
+   "text": "Elon, Timnah, Ekron,"
+  },
+  {
+   "verse": 44,
+   "start": 265.34,
+   "end": 268.0,
+   "text": "Eltekeh, Gibbethon, Baalath,"
+  },
+  {
+   "verse": 45,
+   "start": 268.7,
+   "end": 272.04,
+   "text": "Jehud, Bene Berak, Gath Rimmon,"
+  },
+  {
+   "verse": 46,
+   "start": 272.74,
+   "end": 276.62,
+   "text": "Me Jarkon and Rakkon, with the area facing Joppa."
+  },
+  {
+   "verse": 47,
+   "start": 277.32,
+   "end": 290.9,
+   "text": "But the people of Dan had trouble taking their land. So they went up and attacked Leshem. They captured it, killed its people with the sword, and settled there. They renamed Leshem as Dan, after their ancestor Dan."
+  },
+  {
+   "verse": 48,
+   "start": 291.6,
+   "end": 296.56,
+   "text": "These towns and their villages were the land of the tribe of Dan, clan by clan."
+  },
+  {
+   "verse": 49,
+   "start": 297.26,
+   "end": 304.35,
+   "text": "When they had finished dividing the land into its shares, the Israelites gave Joshua son of Nun a share among them."
+  },
+  {
+   "verse": 50,
+   "start": 305.05,
+   "end": 315.13,
+   "text": "As the LORD had commanded, they gave him the town he asked for, Timnath Serah in the hill country of Ephraim. He rebuilt the town and lived there."
+  },
+  {
+   "verse": 51,
+   "start": 315.83,
+   "end": 331.5,
+   "text": "These are the shares of land that Eleazar the priest, Joshua son of Nun, and the heads of the family groups of the tribes of Israel gave out by lot at Shiloh, before the LORD, at the entrance of the Tent of Meeting. So they finished dividing the land."
+  }
+ ]
+}
