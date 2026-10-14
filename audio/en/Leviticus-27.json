@@ -1,0 +1,215 @@
+{
+ "book": "Leviticus",
+ "chapter": 27,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Leviticus-27.mp3",
+ "duration": 300.19,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.14,
+   "text": "The LORD said to Moses,"
+  },
+  {
+   "verse": 2,
+   "start": 2.84,
+   "end": 12.79,
+   "text": "\"Speak to the people of Israel and tell them: If someone makes a special promise to give a person to the LORD, he may pay the set value of that person instead."
+  },
+  {
+   "verse": 3,
+   "start": 13.49,
+   "end": 21.78,
+   "text": "The set value of a man from twenty to sixty years old is fifty pieces of silver, using the official weight of the holy place."
+  },
+  {
+   "verse": 4,
+   "start": 22.48,
+   "end": 27.01,
+   "text": "For a woman of that age, the set value is thirty pieces of silver."
+  },
+  {
+   "verse": 5,
+   "start": 27.71,
+   "end": 35.99,
+   "text": "For a person from five to twenty years old, the set value is twenty pieces of silver for a boy and ten pieces for a girl."
+  },
+  {
+   "verse": 6,
+   "start": 36.69,
+   "end": 45.35,
+   "text": "For a child from one month to five years old, the set value is five pieces of silver for a boy and three pieces of silver for a girl."
+  },
+  {
+   "verse": 7,
+   "start": 46.05,
+   "end": 53.82,
+   "text": "For a person sixty years old or more, the set value is fifteen pieces of silver for a man and ten pieces for a woman."
+  },
+  {
+   "verse": 8,
+   "start": 54.52,
+   "end": 66.66,
+   "text": "If someone is too poor to pay the set value, the person must be brought to the priest, and the priest will set a value. The priest will set it according to what the one who made the promise can afford."
+  },
+  {
+   "verse": 9,
+   "start": 67.36,
+   "end": 73.72,
+   "text": "If the promise is an animal that may be offered to the LORD, any such animal given to the LORD becomes holy."
+  },
+  {
+   "verse": 10,
+   "start": 74.42,
+   "end": 86.22,
+   "text": "He must not swap it or change it, a good one for a bad one or a bad one for a good one. If he does swap one animal for another, both the animal and the one swapped for it become holy."
+  },
+  {
+   "verse": 11,
+   "start": 86.92,
+   "end": 94.48,
+   "text": "If the promise is an unclean animal, one that may not be offered to the LORD, the animal must be brought to the priest."
+  },
+  {
+   "verse": 12,
+   "start": 95.18,
+   "end": 102.07,
+   "text": "The priest will judge its value, whether it is good or bad. Whatever value the priest sets, that is its value."
+  },
+  {
+   "verse": 13,
+   "start": 102.77,
+   "end": 108.0,
+   "text": "If the owner wants to buy it back, he must pay its value plus one fifth more."
+  },
+  {
+   "verse": 14,
+   "start": 108.7,
+   "end": 119.26,
+   "text": "If someone gives his house as a holy gift to the LORD, the priest will judge its value, whether it is good or bad. Whatever value the priest sets, that is its value."
+  },
+  {
+   "verse": 15,
+   "start": 119.96,
+   "end": 128.25,
+   "text": "If the one who gave the house wants to buy it back, he must pay its value plus one fifth more, and then it will be his again."
+  },
+  {
+   "verse": 16,
+   "start": 128.95,
+   "end": 140.92,
+   "text": "If someone gives part of his family land to the LORD, its value will be set by the amount of seed needed to plant it: fifty pieces of silver for every two hundred kilograms of barley seed."
+  },
+  {
+   "verse": 17,
+   "start": 141.62,
+   "end": 146.29,
+   "text": "If he gives his field in the Year of Jubilee, the full set value stands."
+  },
+  {
+   "verse": 18,
+   "start": 146.99,
+   "end": 156.93,
+   "text": "But if he gives his field after the Jubilee, the priest will work out the price by the number of years left until the next Year of Jubilee, and the set value will be lowered."
+  },
+  {
+   "verse": 19,
+   "start": 157.63,
+   "end": 165.38,
+   "text": "If the one who gave the field wants to buy it back, he must pay its value plus one fifth more, and it will be his again."
+  },
+  {
+   "verse": 20,
+   "start": 166.08,
+   "end": 172.3,
+   "text": "But if he does not buy back the field, or if he has sold it to someone else, it can never be bought back."
+  },
+  {
+   "verse": 21,
+   "start": 173.0,
+   "end": 182.71,
+   "text": "When the field is released in the Jubilee, it will be holy to the LORD, like a field given completely to him. It will belong to the priests."
+  },
+  {
+   "verse": 22,
+   "start": 183.41,
+   "end": 188.32,
+   "text": "If someone gives the LORD a field he has bought, which is not part of his family land,"
+  },
+  {
+   "verse": 23,
+   "start": 189.02,
+   "end": 197.69,
+   "text": "the priest will work out its value up to the Year of Jubilee. The man must pay that amount on that same day, as a holy gift to the LORD."
+  },
+  {
+   "verse": 24,
+   "start": 198.39,
+   "end": 205.63,
+   "text": "In the Year of Jubilee, the field will go back to the person he bought it from, the one whose family land it is."
+  },
+  {
+   "verse": 25,
+   "start": 206.33,
+   "end": 212.98,
+   "text": "All set values must use the official weight of the holy place, twenty small weights to each piece of silver."
+  },
+  {
+   "verse": 26,
+   "start": 213.68,
+   "end": 224.48,
+   "text": "But no one may give the firstborn of an animal as a special gift, because the firstborn already belongs to the LORD. Whether it is a calf or a lamb, it is the LORD's."
+  },
+  {
+   "verse": 27,
+   "start": 225.18,
+   "end": 235.59,
+   "text": "If it is an unclean animal, the owner may buy it back by paying its set value plus one fifth more. If it is not bought back, it must be sold at its set value."
+  },
+  {
+   "verse": 28,
+   "start": 236.29,
+   "end": 249.84,
+   "text": "But anything that someone gives completely to the LORD from what he owns, whether a person, an animal, or family land, may not be sold or bought back. Everything given completely in this way is most holy to the LORD."
+  },
+  {
+   "verse": 29,
+   "start": 250.54,
+   "end": 256.05,
+   "text": "No person who has been given over to be destroyed may be bought back. He must be put to death."
+  },
+  {
+   "verse": 30,
+   "start": 256.75,
+   "end": 265.82,
+   "text": "A tenth of everything the land produces, whether grain from the fields or fruit from the trees, belongs to the LORD. It is holy to the LORD."
+  },
+  {
+   "verse": 31,
+   "start": 266.52,
+   "end": 272.1,
+   "text": "If someone wants to buy back any of his tenth, he must pay its value plus one fifth more."
+  },
+  {
+   "verse": 32,
+   "start": 272.8,
+   "end": 280.79,
+   "text": "A tenth of the cattle and the flock, every tenth animal that passes under the shepherd's rod as they are counted, will be holy to the LORD."
+  },
+  {
+   "verse": 33,
+   "start": 281.49,
+   "end": 293.41,
+   "text": "The owner must not pick out the good ones from the bad, and must not swap any of them. If he does swap one, both the animal and the one swapped for it become holy. They cannot be bought back.\""
+  },
+  {
+   "verse": 34,
+   "start": 294.11,
+   "end": 299.13,
+   "text": "These are the commands the LORD gave Moses on Mount Sinai for the people of Israel."
+  }
+ ]
+}

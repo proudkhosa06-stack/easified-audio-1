@@ -1,0 +1,59 @@
+{
+ "book": "Leviticus",
+ "chapter": 12,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Leviticus-12.mp3",
+ "duration": 78.17,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.14,
+   "text": "The LORD said to Moses,"
+  },
+  {
+   "verse": 2,
+   "start": 2.84,
+   "end": 13.32,
+   "text": "\"Tell the people of Israel: When a woman becomes pregnant and gives birth to a boy, she will be unclean for seven days, just as she is unclean during her monthly period."
+  },
+  {
+   "verse": 3,
+   "start": 14.02,
+   "end": 16.29,
+   "text": "On the eighth day the boy must be circumcised."
+  },
+  {
+   "verse": 4,
+   "start": 16.99,
+   "end": 27.07,
+   "text": "Then she must wait thirty-three days to be made clean from her bleeding. She must not touch anything holy or go into the holy place until her days of cleansing are over."
+  },
+  {
+   "verse": 5,
+   "start": 27.77,
+   "end": 37.46,
+   "text": "If she gives birth to a girl, she will be unclean for two weeks, as during her period. Then she must wait sixty-six days to be made clean from her bleeding."
+  },
+  {
+   "verse": 6,
+   "start": 38.16,
+   "end": 51.03,
+   "text": "When her days of cleansing are over, for a son or a daughter, she must bring the priest at the door of the Tent of Meeting a one-year-old lamb for a burnt offering, and a young pigeon or a dove for a sin offering."
+  },
+  {
+   "verse": 7,
+   "start": 51.73,
+   "end": 62.68,
+   "text": "The priest will offer them to the LORD and make her right with God, and she will be clean from her bleeding. This is the teaching for a woman who gives birth to a boy or a girl."
+  },
+  {
+   "verse": 8,
+   "start": 63.38,
+   "end": 77.11,
+   "text": "If she cannot afford a lamb, she may bring two doves or two young pigeons, one for a burnt offering and the other for a sin offering. The priest will make her right with God, and she will be clean.\""
+  }
+ ]
+}

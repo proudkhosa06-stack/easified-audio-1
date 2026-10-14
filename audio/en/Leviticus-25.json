@@ -1,0 +1,341 @@
+{
+ "book": "Leviticus",
+ "chapter": 25,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Leviticus-25.mp3",
+ "duration": 451.92,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 3.88,
+   "text": "The LORD spoke to Moses on Mount Sinai. He said,"
+  },
+  {
+   "verse": 2,
+   "start": 4.58,
+   "end": 14.63,
+   "text": "\"Speak to the people of Israel and tell them: When you come into the land I am giving you, the land itself must rest and keep a Sabbath for the LORD."
+  },
+  {
+   "verse": 3,
+   "start": 15.33,
+   "end": 21.13,
+   "text": "For six years you may plant your fields and prune your vineyards and gather their crops."
+  },
+  {
+   "verse": 4,
+   "start": 21.83,
+   "end": 31.67,
+   "text": "But the seventh year must be a Sabbath of complete rest for the land, a Sabbath for the LORD. Do not plant your fields or prune your vineyards that year."
+  },
+  {
+   "verse": 5,
+   "start": 32.37,
+   "end": 41.86,
+   "text": "Do not harvest what grows by itself, and do not pick the grapes from your vines that have not been pruned. It is a year of complete rest for the land."
+  },
+  {
+   "verse": 6,
+   "start": 42.56,
+   "end": 52.98,
+   "text": "Whatever the land grows by itself during its Sabbath year will be food for you all: for you, your male and female servants, your hired workers, and the foreigners living with you."
+  },
+  {
+   "verse": 7,
+   "start": 53.68,
+   "end": 60.03,
+   "text": "It will also be food for your farm animals and for the wild animals in your land. Everything it grows may be eaten."
+  },
+  {
+   "verse": 8,
+   "start": 60.73,
+   "end": 66.04,
+   "text": "Count seven Sabbath years, seven times seven years, which adds up to forty-nine years."
+  },
+  {
+   "verse": 9,
+   "start": 66.74,
+   "end": 75.48,
+   "text": "Then, on the tenth day of the seventh month, sound the loud trumpet. On the Day of Atonement, sound the trumpet through all your land."
+  },
+  {
+   "verse": 10,
+   "start": 76.18,
+   "end": 89.52,
+   "text": "Make the fiftieth year holy, and announce freedom everywhere in the land for everyone living there. It will be a year of Jubilee for you. Each of you must go back to your own family land and to your own family."
+  },
+  {
+   "verse": 11,
+   "start": 90.22,
+   "end": 101.77,
+   "text": "The fiftieth year will be your year of Jubilee. Do not plant, do not harvest what grows by itself, and do not pick the grapes from the vines that were not pruned."
+  },
+  {
+   "verse": 12,
+   "start": 102.47,
+   "end": 108.59,
+   "text": "It is a Jubilee, and it is holy for you. Eat only what the fields grow by themselves."
+  },
+  {
+   "verse": 13,
+   "start": 109.29,
+   "end": 114.24,
+   "text": "In this Year of Jubilee, each of you must go back to your own family land."
+  },
+  {
+   "verse": 14,
+   "start": 114.94,
+   "end": 119.55,
+   "text": "When you sell land to your neighbour or buy land from him, do not cheat each other."
+  },
+  {
+   "verse": 15,
+   "start": 120.25,
+   "end": 129.8,
+   "text": "When you buy from your neighbour, set the price by the number of years since the last Jubilee. He will set the price he sells for by the number of harvests left."
+  },
+  {
+   "verse": 16,
+   "start": 130.5,
+   "end": 140.95,
+   "text": "If there are many years left, the price goes up. If there are only a few years left, the price goes down. What he is really selling you is the number of harvests."
+  },
+  {
+   "verse": 17,
+   "start": 141.65,
+   "end": 146.47,
+   "text": "Do not cheat each other, but fear your God, for I am the LORD your God."
+  },
+  {
+   "verse": 18,
+   "start": 147.17,
+   "end": 152.47,
+   "text": "Obey my rules and keep my laws carefully, and you will live safely in the land."
+  },
+  {
+   "verse": 19,
+   "start": 153.17,
+   "end": 158.17,
+   "text": "The land will give its fruit, and you will eat all you want and live there in safety."
+  },
+  {
+   "verse": 20,
+   "start": 158.87,
+   "end": 164.66,
+   "text": "You may ask, 'What will we eat in the seventh year, if we do not plant or harvest our crops?'"
+  },
+  {
+   "verse": 21,
+   "start": 165.36,
+   "end": 170.95,
+   "text": "I will send my blessing on you in the sixth year, so that the land will give enough crops for three years."
+  },
+  {
+   "verse": 22,
+   "start": 171.65,
+   "end": 180.97,
+   "text": "When you plant in the eighth year, you will still be eating from the old harvest. You will keep eating the old food until the harvest of the ninth year comes in."
+  },
+  {
+   "verse": 23,
+   "start": 181.67,
+   "end": 189.29,
+   "text": "The land must never be sold forever, because the land belongs to me. You are only foreigners and guests living with me."
+  },
+  {
+   "verse": 24,
+   "start": 189.99,
+   "end": 194.42,
+   "text": "Everywhere in the land you own, you must allow the land to be bought back."
+  },
+  {
+   "verse": 25,
+   "start": 195.12,
+   "end": 202.89,
+   "text": "If someone among you becomes poor and sells some of his land, his closest relative must come and buy back what he sold."
+  },
+  {
+   "verse": 26,
+   "start": 203.59,
+   "end": 209.47,
+   "text": "If he has no one to buy it back for him, but later he does well and has enough to buy it back himself,"
+  },
+  {
+   "verse": 27,
+   "start": 210.17,
+   "end": 219.05,
+   "text": "he must count the years since he sold it, and pay back the man he sold it to for the years that are left. Then he can go back to his land."
+  },
+  {
+   "verse": 28,
+   "start": 219.75,
+   "end": 231.01,
+   "text": "But if he cannot get enough to buy it back, the land will stay with the person who bought it until the Year of Jubilee. In the Jubilee it will be given back, and he can return to his land."
+  },
+  {
+   "verse": 29,
+   "start": 231.71,
+   "end": 240.1,
+   "text": "If someone sells a house in a walled city, he has one full year after the sale to buy it back. For one year he has the right to buy it back."
+  },
+  {
+   "verse": 30,
+   "start": 240.8,
+   "end": 253.05,
+   "text": "If it is not bought back within the full year, the house in the walled city will belong forever to the person who bought it and to his family after him. It will not be given back in the Jubilee."
+  },
+  {
+   "verse": 31,
+   "start": 253.75,
+   "end": 262.58,
+   "text": "But houses in villages without walls around them are treated like fields in the countryside. They can be bought back, and they must be given back in the Jubilee."
+  },
+  {
+   "verse": 32,
+   "start": 263.28,
+   "end": 268.59,
+   "text": "The Levites, however, may always buy back their houses in the towns that belong to them."
+  },
+  {
+   "verse": 33,
+   "start": 269.29,
+   "end": 281.52,
+   "text": "If a Levite's house in one of their towns is sold and not bought back, it must be given back in the Jubilee. For the houses in the Levites' towns are their own land among the people of Israel."
+  },
+  {
+   "verse": 34,
+   "start": 282.22,
+   "end": 287.77,
+   "text": "But the pasture land around their towns must not be sold, because it belongs to them forever."
+  },
+  {
+   "verse": 35,
+   "start": 288.47,
+   "end": 296.35,
+   "text": "If someone among you becomes poor and cannot support himself, help him. Let him live with you as you would a foreigner or a guest."
+  },
+  {
+   "verse": 36,
+   "start": 297.05,
+   "end": 302.59,
+   "text": "Do not charge him interest or make a profit from him. Fear your God, and let him live among you."
+  },
+  {
+   "verse": 37,
+   "start": 303.29,
+   "end": 307.51,
+   "text": "Do not lend him money with interest, and do not sell him food for a profit."
+  },
+  {
+   "verse": 38,
+   "start": 308.21,
+   "end": 314.46,
+   "text": "I am the LORD your God, who brought you out of Egypt to give you the land of Canaan and to be your God."
+  },
+  {
+   "verse": 39,
+   "start": 315.16,
+   "end": 321.08,
+   "text": "If someone among you becomes poor and sells himself to you, do not make him work like a slave."
+  },
+  {
+   "verse": 40,
+   "start": 321.78,
+   "end": 327.92,
+   "text": "Treat him like a hired worker or a guest living with you. He will work for you until the Year of Jubilee."
+  },
+  {
+   "verse": 41,
+   "start": 328.62,
+   "end": 334.49,
+   "text": "Then he and his children may leave you and go back to their own family and to the land of their fathers."
+  },
+  {
+   "verse": 42,
+   "start": 335.19,
+   "end": 341.67,
+   "text": "The people of Israel are my servants, whom I brought out of Egypt. They must not be sold as slaves."
+  },
+  {
+   "verse": 43,
+   "start": 342.37,
+   "end": 345.53,
+   "text": "Do not rule over him cruelly, but fear your God."
+  },
+  {
+   "verse": 44,
+   "start": 346.23,
+   "end": 352.44,
+   "text": "Your male and female slaves may come from the nations around you. You may buy slaves from them."
+  },
+  {
+   "verse": 45,
+   "start": 353.14,
+   "end": 362.07,
+   "text": "You may also buy some of the children of foreigners living among you, and members of their families born in your land. They may become your property."
+  },
+  {
+   "verse": 46,
+   "start": 362.77,
+   "end": 371.81,
+   "text": "You may leave them to your children after you as their property, and they may be your slaves for life. But you must not rule cruelly over your fellow Israelites."
+  },
+  {
+   "verse": 47,
+   "start": 372.51,
+   "end": 382.61,
+   "text": "A foreigner or a guest living among you may become rich, while one of your fellow Israelites becomes poor and sells himself to that foreigner or to a member of the foreigner's family."
+  },
+  {
+   "verse": 48,
+   "start": 383.31,
+   "end": 389.45,
+   "text": "After he has sold himself, he still has the right to be bought back. One of his brothers may buy him back,"
+  },
+  {
+   "verse": 49,
+   "start": 390.15,
+   "end": 397.95,
+   "text": "or his uncle, or his cousin, or any close relative in his family. Or if he becomes rich, he may buy himself back."
+  },
+  {
+   "verse": 50,
+   "start": 398.65,
+   "end": 411.21,
+   "text": "He and the man who bought him must count the years from the year he sold himself up to the Year of Jubilee. The price for his freedom is set by the number of years, as if he were paid like a hired worker for that time."
+  },
+  {
+   "verse": 51,
+   "start": 411.91,
+   "end": 417.45,
+   "text": "If many years are left, he must pay back a larger part of the price he was sold for."
+  },
+  {
+   "verse": 52,
+   "start": 418.15,
+   "end": 427.02,
+   "text": "If only a few years are left until the Year of Jubilee, he must count them and pay back a smaller amount, according to the years that remain."
+  },
+  {
+   "verse": 53,
+   "start": 427.72,
+   "end": 434.31,
+   "text": "He must be treated like a worker hired year by year. You must make sure his owner does not rule over him cruelly."
+  },
+  {
+   "verse": 54,
+   "start": 435.01,
+   "end": 442.32,
+   "text": "If he is not bought back in any of these ways, he and his children must be set free in the Year of Jubilee."
+  },
+  {
+   "verse": 55,
+   "start": 443.02,
+   "end": 450.85,
+   "text": "For the people of Israel belong to me as servants. They are my servants, whom I brought out of Egypt. I am the LORD your God."
+  }
+ ]
+}

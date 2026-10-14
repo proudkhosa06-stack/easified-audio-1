@@ -1,0 +1,365 @@
+{
+ "book": "Leviticus",
+ "chapter": 13,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Leviticus-13.mp3",
+ "duration": 552.62,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.42,
+   "text": "The LORD said to Moses and Aaron,"
+  },
+  {
+   "verse": 2,
+   "start": 3.12,
+   "end": 15.08,
+   "text": "\"Someone may have a swelling, a scab, or a shiny spot on his skin that could become a serious skin disease. He must be brought to Aaron the priest or to one of his sons, the priests."
+  },
+  {
+   "verse": 3,
+   "start": 15.78,
+   "end": 29.98,
+   "text": "The priest will look at the sore on the skin. If the hair in the sore has turned white, and the sore looks deeper than the skin, it is a serious skin disease. After looking at him, the priest will say that he is unclean."
+  },
+  {
+   "verse": 4,
+   "start": 30.68,
+   "end": 42.01,
+   "text": "But if the shiny spot on the skin is white, and does not look deeper than the skin, and the hair in it has not turned white, the priest will keep the person apart for seven days."
+  },
+  {
+   "verse": 5,
+   "start": 42.71,
+   "end": 53.56,
+   "text": "On the seventh day the priest will look at him again. If he sees that the sore has not changed and has not spread on the skin, the priest will keep him apart for seven more days."
+  },
+  {
+   "verse": 6,
+   "start": 54.26,
+   "end": 68.14,
+   "text": "On the seventh day the priest will look at him again. If the sore has faded and has not spread on the skin, the priest will say he is clean. It is only a scab. He must wash his clothes, and he will be clean."
+  },
+  {
+   "verse": 7,
+   "start": 68.84,
+   "end": 77.12,
+   "text": "But if the scab spreads on the skin after he has shown himself to the priest to be declared clean, he must show himself to the priest again."
+  },
+  {
+   "verse": 8,
+   "start": 77.82,
+   "end": 86.71,
+   "text": "The priest will look at him, and if the scab has spread on the skin, the priest will say he is unclean. It is a serious skin disease."
+  },
+  {
+   "verse": 9,
+   "start": 87.41,
+   "end": 91.43,
+   "text": "When someone has a serious skin disease, he must be brought to the priest."
+  },
+  {
+   "verse": 10,
+   "start": 92.13,
+   "end": 99.71,
+   "text": "The priest will look at him. If there is a white swelling on the skin that has turned the hair white, and there is raw flesh in the swelling,"
+  },
+  {
+   "verse": 11,
+   "start": 100.41,
+   "end": 110.17,
+   "text": "it is a long-lasting skin disease, and the priest will say he is unclean. He does not need to keep him apart, because he is already unclean."
+  },
+  {
+   "verse": 12,
+   "start": 110.87,
+   "end": 117.91,
+   "text": "If the disease breaks out all over the skin, and covers the person's whole skin from head to foot, wherever the priest looks,"
+  },
+  {
+   "verse": 13,
+   "start": 118.61,
+   "end": 127.73,
+   "text": "the priest will look at him. If the disease has covered his whole body, the priest will say he is clean of the sore. It has all turned white, so he is clean."
+  },
+  {
+   "verse": 14,
+   "start": 128.43,
+   "end": 132.07,
+   "text": "But whenever raw flesh shows on him, he will be unclean."
+  },
+  {
+   "verse": 15,
+   "start": 132.77,
+   "end": 140.34,
+   "text": "The priest will look at the raw flesh and say he is unclean. Raw flesh is unclean. It is a serious skin disease."
+  },
+  {
+   "verse": 16,
+   "start": 141.04,
+   "end": 145.73,
+   "text": "But if the raw flesh changes and turns white again, he must go to the priest."
+  },
+  {
+   "verse": 17,
+   "start": 146.43,
+   "end": 154.44,
+   "text": "The priest will look at him, and if the sore has turned white, the priest will say he is clean of the sore. He is clean."
+  },
+  {
+   "verse": 18,
+   "start": 155.14,
+   "end": 158.84,
+   "text": "When someone has a boil on his skin, and it has healed,"
+  },
+  {
+   "verse": 19,
+   "start": 159.54,
+   "end": 166.28,
+   "text": "and in the place of the boil there is a white swelling, or a shiny reddish-white spot, he must show it to the priest."
+  },
+  {
+   "verse": 20,
+   "start": 166.98,
+   "end": 179.36,
+   "text": "The priest will look at it. If it looks deeper than the skin and the hair in it has turned white, the priest will say he is unclean. It is a serious skin disease that has broken out where the boil was."
+  },
+  {
+   "verse": 21,
+   "start": 180.06,
+   "end": 189.87,
+   "text": "But if the priest looks at it and there are no white hairs in it, and it is not deeper than the skin but has faded, the priest will keep him apart for seven days."
+  },
+  {
+   "verse": 22,
+   "start": 190.57,
+   "end": 196.52,
+   "text": "If it spreads on the skin, the priest will say he is unclean. It is a disease."
+  },
+  {
+   "verse": 23,
+   "start": 197.22,
+   "end": 204.88,
+   "text": "But if the shiny spot stays where it is and does not spread, it is only the scar from the boil, and the priest will say he is clean."
+  },
+  {
+   "verse": 24,
+   "start": 205.58,
+   "end": 213.9,
+   "text": "Or someone may have a burn on his skin from fire, and the raw flesh of the burn becomes a shiny spot, reddish-white or white."
+  },
+  {
+   "verse": 25,
+   "start": 214.6,
+   "end": 230.28,
+   "text": "The priest will look at it. If the hair in the shiny spot has turned white, and it looks deeper than the skin, it is a serious skin disease that has broken out in the burn. The priest will say he is unclean. It is a serious skin disease."
+  },
+  {
+   "verse": 26,
+   "start": 230.98,
+   "end": 241.88,
+   "text": "But if the priest looks at it and there is no white hair in the shiny spot, and it is not deeper than the skin but has faded, the priest will keep him apart for seven days."
+  },
+  {
+   "verse": 27,
+   "start": 242.58,
+   "end": 252.02,
+   "text": "On the seventh day the priest will look at him. If it has spread on the skin, the priest will say he is unclean. It is a serious skin disease."
+  },
+  {
+   "verse": 28,
+   "start": 252.72,
+   "end": 265.99,
+   "text": "But if the shiny spot stays where it is and has not spread on the skin but has faded, it is only swelling from the burn. The priest will say he is clean, because it is only the scar from the burn."
+  },
+  {
+   "verse": 29,
+   "start": 266.69,
+   "end": 270.41,
+   "text": "When a man or woman has a sore on the head or in the beard,"
+  },
+  {
+   "verse": 30,
+   "start": 271.11,
+   "end": 286.5,
+   "text": "the priest will look at the sore. If it looks deeper than the skin, and the hair in it is yellow and thin, the priest will say the person is unclean. It is an itching sore, a serious skin disease of the head or beard."
+  },
+  {
+   "verse": 31,
+   "start": 287.2,
+   "end": 297.28,
+   "text": "But if the priest looks at the itching sore and it does not look deeper than the skin, and there is no black hair in it, the priest will keep the person apart for seven days."
+  },
+  {
+   "verse": 32,
+   "start": 297.98,
+   "end": 307.32,
+   "text": "On the seventh day the priest will look at the sore. If the itch has not spread, and there is no yellow hair in it, and it does not look deeper than the skin,"
+  },
+  {
+   "verse": 33,
+   "start": 308.02,
+   "end": 314.86,
+   "text": "the person must shave, but not shave the sore itself. Then the priest will keep the person apart for seven more days."
+  },
+  {
+   "verse": 34,
+   "start": 315.56,
+   "end": 329.3,
+   "text": "On the seventh day the priest will look at the itch. If it has not spread on the skin, and it does not look deeper than the skin, the priest will say the person is clean. He must wash his clothes, and he will be clean."
+  },
+  {
+   "verse": 35,
+   "start": 330.0,
+   "end": 334.0,
+   "text": "But if the itch spreads on the skin after he has been declared clean,"
+  },
+  {
+   "verse": 36,
+   "start": 334.7,
+   "end": 343.44,
+   "text": "the priest will look at him again. If the itch has spread on the skin, the priest does not need to look for yellow hair. The person is unclean."
+  },
+  {
+   "verse": 37,
+   "start": 344.14,
+   "end": 354.0,
+   "text": "But if the priest sees that the itch has not changed and black hair has grown in it, the itch is healed. The person is clean, and the priest will say he is clean."
+  },
+  {
+   "verse": 38,
+   "start": 354.7,
+   "end": 358.17,
+   "text": "When a man or woman has shiny white spots on the skin,"
+  },
+  {
+   "verse": 39,
+   "start": 358.87,
+   "end": 368.11,
+   "text": "the priest will look at them. If the spots are a dull white, it is only a harmless rash that has broken out on the skin. The person is clean."
+  },
+  {
+   "verse": 40,
+   "start": 368.81,
+   "end": 373.73,
+   "text": "If a man loses the hair on his head, he is bald, but he is clean."
+  },
+  {
+   "verse": 41,
+   "start": 374.43,
+   "end": 380.14,
+   "text": "If he loses the hair on the front of his head, he has a bald forehead, but he is clean."
+  },
+  {
+   "verse": 42,
+   "start": 380.84,
+   "end": 388.25,
+   "text": "But if there is a reddish-white sore on the bald head or forehead, it is a serious skin disease breaking out there."
+  },
+  {
+   "verse": 43,
+   "start": 388.95,
+   "end": 397.69,
+   "text": "The priest will look at him. If the swollen sore on his bald head or forehead is reddish-white, like a serious skin disease on the body,"
+  },
+  {
+   "verse": 44,
+   "start": 398.39,
+   "end": 405.67,
+   "text": "the man has a serious skin disease and is unclean. The priest must say he is unclean, because of the sore on his head."
+  },
+  {
+   "verse": 45,
+   "start": 406.37,
+   "end": 416.94,
+   "text": "A person with a serious skin disease must wear torn clothes and let his hair hang loose. He must cover the lower part of his face and call out, 'Unclean! Unclean!'"
+  },
+  {
+   "verse": 46,
+   "start": 417.64,
+   "end": 424.35,
+   "text": "As long as he has the disease, he is unclean. He must live alone, in a place outside the camp."
+  },
+  {
+   "verse": 47,
+   "start": 425.05,
+   "end": 429.43,
+   "text": "Clothing may also have mould on it, whether it is wool or linen clothing,"
+  },
+  {
+   "verse": 48,
+   "start": 430.13,
+   "end": 436.14,
+   "text": "or woven or knitted material of linen or wool, or leather, or anything made of leather."
+  },
+  {
+   "verse": 49,
+   "start": 436.84,
+   "end": 448.18,
+   "text": "If the mark on the clothing, the leather, the woven or knitted material, or the leather item is greenish or reddish, it is spreading mould, and it must be shown to the priest."
+  },
+  {
+   "verse": 50,
+   "start": 448.88,
+   "end": 452.93,
+   "text": "The priest will look at the mould and put the item away for seven days."
+  },
+  {
+   "verse": 51,
+   "start": 453.63,
+   "end": 468.1,
+   "text": "On the seventh day he will look at it. If the mould has spread on the clothing, the woven or knitted material, or the leather, whatever it is used for, it is a harmful mould. The item is unclean."
+  },
+  {
+   "verse": 52,
+   "start": 468.8,
+   "end": 479.78,
+   "text": "He must burn the clothing, the woven or knitted wool or linen, or the leather item with the mould on it, because it is a harmful mould. It must be burned in the fire."
+  },
+  {
+   "verse": 53,
+   "start": 480.48,
+   "end": 488.68,
+   "text": "But if the priest looks at it and the mould has not spread on the clothing, the woven or knitted material, or the leather item,"
+  },
+  {
+   "verse": 54,
+   "start": 489.38,
+   "end": 495.59,
+   "text": "the priest will order that the item with the mould be washed, and he will put it away for seven more days."
+  },
+  {
+   "verse": 55,
+   "start": 496.29,
+   "end": 510.24,
+   "text": "After it has been washed, the priest will look at it again. If the mould has not changed colour, even if it has not spread, the item is unclean. Burn it in the fire, whether the damage is on the inside or the outside."
+  },
+  {
+   "verse": 56,
+   "start": 510.94,
+   "end": 519.58,
+   "text": "If the priest looks and the mould has faded after washing, he must tear the spot out of the clothing, the leather, or the woven or knitted material."
+  },
+  {
+   "verse": 57,
+   "start": 520.28,
+   "end": 529.93,
+   "text": "But if it appears again on the clothing, the woven or knitted material, or the leather item, it is spreading. Burn whatever has the mould in the fire."
+  },
+  {
+   "verse": 58,
+   "start": 530.63,
+   "end": 539.81,
+   "text": "If you wash the clothing, the woven or knitted material, or the leather item and the mould goes away, wash it a second time, and it will be clean.\""
+  },
+  {
+   "verse": 59,
+   "start": 540.51,
+   "end": 551.56,
+   "text": "This is the teaching about mould on clothing of wool or linen, on woven or knitted material, or on anything made of leather, to know whether it is clean or unclean."
+  }
+ ]
+}
