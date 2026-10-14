@@ -1,0 +1,335 @@
+{
+ "book": "Numbers",
+ "chapter": 1,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Numbers-1.mp3",
+ "duration": 397.06,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.43,
+   "text": "On the first day of the second month, in the second year after the people of Israel came out of Egypt, the LORD spoke to Moses in the Tent of Meeting in the Sinai desert. He said,"
+  },
+  {
+   "verse": 2,
+   "start": 13.13,
+   "end": 20.16,
+   "text": "\"Count all the people of Israel by their clans and families. List the name of every man, one by one,"
+  },
+  {
+   "verse": 3,
+   "start": 20.86,
+   "end": 28.24,
+   "text": "all who are twenty years old or more and able to go to war in Israel. You and Aaron must count them by their army groups."
+  },
+  {
+   "verse": 4,
+   "start": 28.94,
+   "end": 33.37,
+   "text": "One man from each tribe, the head of his family group, will help you."
+  },
+  {
+   "verse": 5,
+   "start": 34.07,
+   "end": 41.34,
+   "text": "These are the names of the men who will help you: From Reuben, Elizur son of Shedeur."
+  },
+  {
+   "verse": 6,
+   "start": 42.04,
+   "end": 45.47,
+   "text": "From Simeon, Shelumiel son of Zurishaddai."
+  },
+  {
+   "verse": 7,
+   "start": 46.17,
+   "end": 49.09,
+   "text": "From Judah, Nahshon son of Amminadab."
+  },
+  {
+   "verse": 8,
+   "start": 49.79,
+   "end": 52.66,
+   "text": "From Issachar, Nethanel son of Zuar."
+  },
+  {
+   "verse": 9,
+   "start": 53.36,
+   "end": 56.64,
+   "text": "From Zebulun, Eliab son of Helon."
+  },
+  {
+   "verse": 10,
+   "start": 57.34,
+   "end": 67.49,
+   "text": "From the sons of Joseph: from Ephraim, Elishama son of Ammihud, and from Manasseh, Gamaliel son of Pedahzur."
+  },
+  {
+   "verse": 11,
+   "start": 68.19,
+   "end": 71.74,
+   "text": "From Benjamin, Abidan son of Gideoni."
+  },
+  {
+   "verse": 12,
+   "start": 72.44,
+   "end": 74.95,
+   "text": "From Dan, Ahiezer son of Ammishaddai."
+  },
+  {
+   "verse": 13,
+   "start": 75.65,
+   "end": 78.65,
+   "text": "From Asher, Pagiel son of Ochran."
+  },
+  {
+   "verse": 14,
+   "start": 79.35,
+   "end": 81.88,
+   "text": "From Gad, Eliasaph son of Deuel."
+  },
+  {
+   "verse": 15,
+   "start": 82.58,
+   "end": 85.65,
+   "text": "From Naphtali, Ahira son of Enan.\""
+  },
+  {
+   "verse": 16,
+   "start": 86.35,
+   "end": 94.22,
+   "text": "These were the men chosen from the community, the leaders of their fathers' tribes. They were the heads of the army groups of Israel."
+  },
+  {
+   "verse": 17,
+   "start": 94.92,
+   "end": 98.04,
+   "text": "Moses and Aaron took these men who had been named,"
+  },
+  {
+   "verse": 18,
+   "start": 98.74,
+   "end": 111.19,
+   "text": "and on the first day of the second month they called the whole community together. The people were listed by their clans and families, and every man twenty years old or more was named, one by one."
+  },
+  {
+   "verse": 19,
+   "start": 111.89,
+   "end": 116.73,
+   "text": "So Moses counted them in the Sinai desert, as the LORD had commanded him."
+  },
+  {
+   "verse": 20,
+   "start": 117.43,
+   "end": 129.56,
+   "text": "From the descendants of Reuben, Israel's oldest son, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 21,
+   "start": 130.26,
+   "end": 134.74,
+   "text": "The number counted from the tribe of Reuben was forty-six thousand five hundred."
+  },
+  {
+   "verse": 22,
+   "start": 135.44,
+   "end": 145.54,
+   "text": "From the descendants of Simeon, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 23,
+   "start": 146.24,
+   "end": 151.17,
+   "text": "The number counted from the tribe of Simeon was fifty-nine thousand three hundred."
+  },
+  {
+   "verse": 24,
+   "start": 151.87,
+   "end": 162.98,
+   "text": "From the descendants of Gad, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 25,
+   "start": 163.68,
+   "end": 168.22,
+   "text": "The number counted from the tribe of Gad was forty-five thousand six hundred fifty."
+  },
+  {
+   "verse": 26,
+   "start": 168.92,
+   "end": 177.88,
+   "text": "From the descendants of Judah, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 27,
+   "start": 178.58,
+   "end": 183.04,
+   "text": "The number counted from the tribe of Judah was seventy-four thousand six hundred."
+  },
+  {
+   "verse": 28,
+   "start": 183.74,
+   "end": 194.28,
+   "text": "From the descendants of Issachar, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 29,
+   "start": 194.98,
+   "end": 199.63,
+   "text": "The number counted from the tribe of Issachar was fifty-four thousand four hundred."
+  },
+  {
+   "verse": 30,
+   "start": 200.33,
+   "end": 210.32,
+   "text": "From the descendants of Zebulun, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 31,
+   "start": 211.02,
+   "end": 215.8,
+   "text": "The number counted from the tribe of Zebulun was fifty-seven thousand four hundred."
+  },
+  {
+   "verse": 32,
+   "start": 216.5,
+   "end": 228.85,
+   "text": "From the descendants of Ephraim, one of the sons of Joseph, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 33,
+   "start": 229.55,
+   "end": 233.77,
+   "text": "The number counted from the tribe of Ephraim was forty thousand five hundred."
+  },
+  {
+   "verse": 34,
+   "start": 234.47,
+   "end": 243.72,
+   "text": "From the descendants of Manasseh, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 35,
+   "start": 244.42,
+   "end": 248.72,
+   "text": "The number counted from the tribe of Manasseh was thirty-two thousand two hundred."
+  },
+  {
+   "verse": 36,
+   "start": 249.42,
+   "end": 260.0,
+   "text": "From the descendants of Benjamin, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 37,
+   "start": 260.7,
+   "end": 265.49,
+   "text": "The number counted from the tribe of Benjamin was thirty-five thousand four hundred."
+  },
+  {
+   "verse": 38,
+   "start": 266.19,
+   "end": 275.9,
+   "text": "From the descendants of Dan, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 39,
+   "start": 276.6,
+   "end": 280.8,
+   "text": "The number counted from the tribe of Dan was sixty-two thousand seven hundred."
+  },
+  {
+   "verse": 40,
+   "start": 281.5,
+   "end": 291.44,
+   "text": "From the descendants of Asher, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 41,
+   "start": 292.14,
+   "end": 296.09,
+   "text": "The number counted from the tribe of Asher was forty-one thousand five hundred."
+  },
+  {
+   "verse": 42,
+   "start": 296.79,
+   "end": 306.76,
+   "text": "From the descendants of Naphtali, every man twenty years old or more who could go to war was listed by name, one by one, by clans and families."
+  },
+  {
+   "verse": 43,
+   "start": 307.46,
+   "end": 311.59,
+   "text": "The number counted from the tribe of Naphtali was fifty-three thousand four hundred."
+  },
+  {
+   "verse": 44,
+   "start": 312.29,
+   "end": 320.1,
+   "text": "These are the men counted by Moses and Aaron, with the help of the twelve leaders of Israel, one for each family group."
+  },
+  {
+   "verse": 45,
+   "start": 320.8,
+   "end": 326.65,
+   "text": "All the men of Israel twenty years old or more who could go to war were counted by their families."
+  },
+  {
+   "verse": 46,
+   "start": 327.35,
+   "end": 331.08,
+   "text": "The total number was six hundred three thousand five hundred fifty."
+  },
+  {
+   "verse": 47,
+   "start": 331.78,
+   "end": 335.61,
+   "text": "But the Levites were not counted with them by their fathers' tribe."
+  },
+  {
+   "verse": 48,
+   "start": 336.31,
+   "end": 338.14,
+   "text": "For the LORD had said to Moses,"
+  },
+  {
+   "verse": 49,
+   "start": 338.84,
+   "end": 344.59,
+   "text": "\"Do not count the tribe of Levi, and do not include them in the count of the people of Israel."
+  },
+  {
+   "verse": 50,
+   "start": 345.29,
+   "end": 360.45,
+   "text": "Instead, put the Levites in charge of the Holy Tent where the Covenant Law is kept, with all its furniture and everything that belongs to it. They must carry the Holy Tent and all its furniture. They will take care of it and camp around it."
+  },
+  {
+   "verse": 51,
+   "start": 361.15,
+   "end": 372.1,
+   "text": "When the Holy Tent is to move, the Levites will take it down, and when it is to be set up, the Levites will set it up. Anyone else who comes near it must be put to death."
+  },
+  {
+   "verse": 52,
+   "start": 372.8,
+   "end": 379.67,
+   "text": "The people of Israel will set up their tents, each man in his own camp and under his own flag, by their army groups."
+  },
+  {
+   "verse": 53,
+   "start": 380.37,
+   "end": 391.26,
+   "text": "But the Levites will camp around the Holy Tent where the Covenant Law is kept, so that my anger will not fall on the people of Israel. The Levites are responsible for the Holy Tent.\""
+  },
+  {
+   "verse": 54,
+   "start": 391.96,
+   "end": 395.99,
+   "text": "The people of Israel did everything just as the LORD had commanded Moses."
+  }
+ ]
+}

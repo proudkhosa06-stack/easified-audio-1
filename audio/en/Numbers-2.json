@@ -1,0 +1,215 @@
+{
+ "book": "Numbers",
+ "chapter": 2,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Numbers-2.mp3",
+ "duration": 241.82,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.42,
+   "text": "The LORD said to Moses and Aaron,"
+  },
+  {
+   "verse": 2,
+   "start": 3.12,
+   "end": 13.39,
+   "text": "\"The people of Israel must camp around the Tent of Meeting, at some distance from it. Each man must camp under his own flag, with the banners of his family group."
+  },
+  {
+   "verse": 3,
+   "start": 14.09,
+   "end": 25.62,
+   "text": "On the east side, toward the sunrise, the tribes under the flag of Judah's camp will set up their tents by their army groups. The leader of the people of Judah is Nahshon son of Amminadab."
+  },
+  {
+   "verse": 4,
+   "start": 26.32,
+   "end": 29.3,
+   "text": "His army group numbers seventy-four thousand six hundred."
+  },
+  {
+   "verse": 5,
+   "start": 30.0,
+   "end": 37.36,
+   "text": "The tribe of Issachar will camp next to them. The leader of the people of Issachar is Nethanel son of Zuar."
+  },
+  {
+   "verse": 6,
+   "start": 38.06,
+   "end": 41.23,
+   "text": "His army group numbers fifty-four thousand four hundred."
+  },
+  {
+   "verse": 7,
+   "start": 41.93,
+   "end": 48.59,
+   "text": "Then comes the tribe of Zebulun. The leader of the people of Zebulun is Eliab son of Helon."
+  },
+  {
+   "verse": 8,
+   "start": 49.29,
+   "end": 52.56,
+   "text": "His army group numbers fifty-seven thousand four hundred."
+  },
+  {
+   "verse": 9,
+   "start": 53.26,
+   "end": 61.18,
+   "text": "The total number in Judah's camp, by their army groups, is one hundred eighty-six thousand four hundred. They will march out first."
+  },
+  {
+   "verse": 10,
+   "start": 61.88,
+   "end": 71.93,
+   "text": "On the south side, the tribes under the flag of Reuben's camp will camp by their army groups. The leader of the people of Reuben is Elizur son of Shedeur."
+  },
+  {
+   "verse": 11,
+   "start": 72.63,
+   "end": 75.87,
+   "text": "His army group numbers forty-six thousand five hundred."
+  },
+  {
+   "verse": 12,
+   "start": 76.57,
+   "end": 84.24,
+   "text": "The tribe of Simeon will camp next to them. The leader of the people of Simeon is Shelumiel son of Zurishaddai."
+  },
+  {
+   "verse": 13,
+   "start": 84.94,
+   "end": 88.44,
+   "text": "His army group numbers fifty-nine thousand three hundred."
+  },
+  {
+   "verse": 14,
+   "start": 89.14,
+   "end": 95.11,
+   "text": "Then comes the tribe of Gad. The leader of the people of Gad is Eliasaph son of Reuel."
+  },
+  {
+   "verse": 15,
+   "start": 95.81,
+   "end": 99.32,
+   "text": "His army group numbers forty-five thousand six hundred fifty."
+  },
+  {
+   "verse": 16,
+   "start": 100.02,
+   "end": 107.93,
+   "text": "The total number in Reuben's camp, by their army groups, is one hundred fifty-one thousand four hundred fifty. They will march out second."
+  },
+  {
+   "verse": 17,
+   "start": 108.63,
+   "end": 119.54,
+   "text": "Then the Tent of Meeting will move out, with the camp of the Levites in the middle of the other camps. They will march out in the same order as they camp, each in his own place under his own flag."
+  },
+  {
+   "verse": 18,
+   "start": 120.24,
+   "end": 131.62,
+   "text": "On the west side, the tribes under the flag of Ephraim's camp will camp by their army groups. The leader of the people of Ephraim is Elishama son of Ammihud."
+  },
+  {
+   "verse": 19,
+   "start": 132.32,
+   "end": 135.1,
+   "text": "His army group numbers forty thousand five hundred."
+  },
+  {
+   "verse": 20,
+   "start": 135.8,
+   "end": 143.5,
+   "text": "The tribe of Manasseh will camp next to them. The leader of the people of Manasseh is Gamaliel son of Pedahzur."
+  },
+  {
+   "verse": 21,
+   "start": 144.2,
+   "end": 147.24,
+   "text": "His army group numbers thirty-two thousand two hundred."
+  },
+  {
+   "verse": 22,
+   "start": 147.94,
+   "end": 154.42,
+   "text": "Then comes the tribe of Benjamin. The leader of the people of Benjamin is Abidan son of Gideoni."
+  },
+  {
+   "verse": 23,
+   "start": 155.12,
+   "end": 158.19,
+   "text": "His army group numbers thirty-five thousand four hundred."
+  },
+  {
+   "verse": 24,
+   "start": 158.89,
+   "end": 166.48,
+   "text": "The total number in Ephraim's camp, by their army groups, is one hundred eight thousand one hundred. They will march out third."
+  },
+  {
+   "verse": 25,
+   "start": 167.18,
+   "end": 177.77,
+   "text": "On the north side, the tribes under the flag of Dan's camp will camp by their army groups. The leader of the people of Dan is Ahiezer son of Ammishaddai."
+  },
+  {
+   "verse": 26,
+   "start": 178.47,
+   "end": 181.63,
+   "text": "His army group numbers sixty-two thousand seven hundred."
+  },
+  {
+   "verse": 27,
+   "start": 182.33,
+   "end": 188.78,
+   "text": "The tribe of Asher will camp next to them. The leader of the people of Asher is Pagiel son of Ochran."
+  },
+  {
+   "verse": 28,
+   "start": 189.48,
+   "end": 192.55,
+   "text": "His army group numbers forty-one thousand five hundred."
+  },
+  {
+   "verse": 29,
+   "start": 193.25,
+   "end": 200.02,
+   "text": "Then comes the tribe of Naphtali. The leader of the people of Naphtali is Ahira son of Enan."
+  },
+  {
+   "verse": 30,
+   "start": 200.72,
+   "end": 204.09,
+   "text": "His army group numbers fifty-three thousand four hundred."
+  },
+  {
+   "verse": 31,
+   "start": 204.79,
+   "end": 212.56,
+   "text": "The total number in Dan's camp is one hundred fifty-seven thousand six hundred. They will march out last, under their flags.\""
+  },
+  {
+   "verse": 32,
+   "start": 213.26,
+   "end": 223.42,
+   "text": "These are the people of Israel, counted by their families. The total number in all the camps, by their army groups, was six hundred three thousand five hundred fifty."
+  },
+  {
+   "verse": 33,
+   "start": 224.12,
+   "end": 229.33,
+   "text": "But the Levites were not counted with the other people of Israel, as the LORD had commanded Moses."
+  },
+  {
+   "verse": 34,
+   "start": 230.03,
+   "end": 240.76,
+   "text": "So the people of Israel did everything the LORD commanded Moses. They camped under their flags in this way, and they marched out in this way, each man with his clan and family."
+  }
+ ]
+}
