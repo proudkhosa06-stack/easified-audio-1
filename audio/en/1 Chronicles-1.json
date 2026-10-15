@@ -1,0 +1,335 @@
+{
+ "book": "1 Chronicles",
+ "chapter": 1,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "1 Chronicles-1.mp3",
+ "duration": 326.16,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.44,
+   "text": "Adam, Seth, Enosh,"
+  },
+  {
+   "verse": 2,
+   "start": 3.14,
+   "end": 5.53,
+   "text": "Kenan, Mahalalel, Jared,"
+  },
+  {
+   "verse": 3,
+   "start": 6.23,
+   "end": 8.83,
+   "text": "Enoch, Methuselah, Lamech,"
+  },
+  {
+   "verse": 4,
+   "start": 9.53,
+   "end": 13.54,
+   "text": "Noah, and Noah's sons Shem, Ham, and Japheth."
+  },
+  {
+   "verse": 5,
+   "start": 14.24,
+   "end": 21.69,
+   "text": "Japheth's sons were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+  },
+  {
+   "verse": 6,
+   "start": 22.39,
+   "end": 26.9,
+   "text": "Gomer's sons were Ashkenaz, Diphath, and Togarmah."
+  },
+  {
+   "verse": 7,
+   "start": 27.6,
+   "end": 32.52,
+   "text": "Javan's sons were Elishah, Tarshish, Kittim, and Rodanim."
+  },
+  {
+   "verse": 8,
+   "start": 33.22,
+   "end": 37.16,
+   "text": "Ham's sons were Cush, Mizraim, Put, and Canaan."
+  },
+  {
+   "verse": 9,
+   "start": 37.86,
+   "end": 47.75,
+   "text": "Cush's sons were Seba, Havilah, Sabta, Raama, and Sabteca. Raamah's sons were Sheba and Dedan."
+  },
+  {
+   "verse": 10,
+   "start": 48.45,
+   "end": 52.92,
+   "text": "Cush was the father of Nimrod, who grew up to be a mighty warrior on the earth."
+  },
+  {
+   "verse": 11,
+   "start": 53.62,
+   "end": 59.13,
+   "text": "Mizraim was the father of the Ludites, Anamites, Lehabites, Naphtuhites,"
+  },
+  {
+   "verse": 12,
+   "start": 59.83,
+   "end": 65.72,
+   "text": "Pathrusites, Casluhites (the Philistines came from them), and the Caphtorites."
+  },
+  {
+   "verse": 13,
+   "start": 66.42,
+   "end": 70.77,
+   "text": "Canaan was the father of Sidon, his firstborn, and of Heth."
+  },
+  {
+   "verse": 14,
+   "start": 71.47,
+   "end": 76.62,
+   "text": "He was also the ancestor of the Jebusites, the Amorites, the Girgashites,"
+  },
+  {
+   "verse": 15,
+   "start": 77.32,
+   "end": 80.5,
+   "text": "the Hivites, the Arkites, the Sinites,"
+  },
+  {
+   "verse": 16,
+   "start": 81.2,
+   "end": 85.44,
+   "text": "the Arvadites, the Zemarites, and the Hamathites."
+  },
+  {
+   "verse": 17,
+   "start": 86.14,
+   "end": 95.95,
+   "text": "Shem's sons were Elam, Asshur, Arpachshad, Lud, Aram, Uz, Hul, Gether, and Meshech."
+  },
+  {
+   "verse": 18,
+   "start": 96.65,
+   "end": 101.09,
+   "text": "Arpachshad was the father of Shelah, and Shelah was the father of Eber."
+  },
+  {
+   "verse": 19,
+   "start": 101.79,
+   "end": 109.86,
+   "text": "Eber had two sons. One was named Peleg, because in his time the earth was divided. His brother was named Joktan."
+  },
+  {
+   "verse": 20,
+   "start": 110.56,
+   "end": 115.52,
+   "text": "Joktan was the father of Almodad, Sheleph, Hazarmaveth, Jerah,"
+  },
+  {
+   "verse": 21,
+   "start": 116.22,
+   "end": 118.41,
+   "text": "Hadoram, Uzal, Diklah,"
+  },
+  {
+   "verse": 22,
+   "start": 119.11,
+   "end": 121.68,
+   "text": "Ebal, Abimael, Sheba,"
+  },
+  {
+   "verse": 23,
+   "start": 122.38,
+   "end": 127.08,
+   "text": "Ophir, Havilah, and Jobab. All these were Joktan's sons."
+  },
+  {
+   "verse": 24,
+   "start": 127.78,
+   "end": 132.4,
+   "text": "The family line from Shem went: Shem, Arpachshad, Shelah,"
+  },
+  {
+   "verse": 25,
+   "start": 133.1,
+   "end": 134.35,
+   "text": "Eber, Peleg, Reu,"
+  },
+  {
+   "verse": 26,
+   "start": 135.05,
+   "end": 137.14,
+   "text": "Serug, Nahor, Terah,"
+  },
+  {
+   "verse": 27,
+   "start": 137.84,
+   "end": 140.71,
+   "text": "and Abram, who is also called Abraham."
+  },
+  {
+   "verse": 28,
+   "start": 141.41,
+   "end": 144.02,
+   "text": "Abraham's sons were Isaac and Ishmael."
+  },
+  {
+   "verse": 29,
+   "start": 144.72,
+   "end": 152.43,
+   "text": "These were their descendants. Ishmael's firstborn son was Nebaioth. Then came Kedar, Adbeel, Mibsam,"
+  },
+  {
+   "verse": 30,
+   "start": 153.13,
+   "end": 156.94,
+   "text": "Mishma, Dumah, Massa, Hadad, Tema,"
+  },
+  {
+   "verse": 31,
+   "start": 157.64,
+   "end": 162.52,
+   "text": "Jetur, Naphish, and Kedemah. These were Ishmael's sons."
+  },
+  {
+   "verse": 32,
+   "start": 163.22,
+   "end": 175.41,
+   "text": "Keturah was Abraham's concubine. She gave birth to Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. Jokshan's sons were Sheba and Dedan."
+  },
+  {
+   "verse": 33,
+   "start": 176.11,
+   "end": 186.18,
+   "text": "Midian's sons were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were Keturah's descendants."
+  },
+  {
+   "verse": 34,
+   "start": 186.88,
+   "end": 192.18,
+   "text": "Abraham was the father of Isaac. Isaac's sons were Esau and Israel."
+  },
+  {
+   "verse": 35,
+   "start": 192.88,
+   "end": 198.75,
+   "text": "Esau's sons were Eliphaz, Reuel, Jeush, Jalam, and Korah."
+  },
+  {
+   "verse": 36,
+   "start": 199.45,
+   "end": 206.71,
+   "text": "Eliphaz's sons were Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek."
+  },
+  {
+   "verse": 37,
+   "start": 207.41,
+   "end": 212.03,
+   "text": "Reuel's sons were Nahath, Zerah, Shammah, and Mizzah."
+  },
+  {
+   "verse": 38,
+   "start": 212.73,
+   "end": 219.3,
+   "text": "Seir's sons were Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
+  },
+  {
+   "verse": 39,
+   "start": 220.0,
+   "end": 224.38,
+   "text": "Lotan's sons were Hori and Homam. Lotan's sister was Timna."
+  },
+  {
+   "verse": 40,
+   "start": 225.08,
+   "end": 234.32,
+   "text": "Shobal's sons were Alian, Manahath, Ebal, Shephi, and Onam. Zibeon's sons were Aiah and Anah."
+  },
+  {
+   "verse": 41,
+   "start": 235.02,
+   "end": 241.56,
+   "text": "Anah's son was Dishon. Dishon's sons were Hamran, Eshban, Ithran, and Cheran."
+  },
+  {
+   "verse": 42,
+   "start": 242.26,
+   "end": 248.95,
+   "text": "Ezer's sons were Bilhan, Zaavan, and Jaakan. Dishan's sons were Uz and Aran."
+  },
+  {
+   "verse": 43,
+   "start": 249.65,
+   "end": 258.85,
+   "text": "These are the kings who ruled in the land of Edom before any king ruled over the Israelites: Bela son of Beor, whose city was called Dinhabah."
+  },
+  {
+   "verse": 44,
+   "start": 259.55,
+   "end": 264.89,
+   "text": "When Bela died, Jobab son of Zerah from Bozrah became king after him."
+  },
+  {
+   "verse": 45,
+   "start": 265.59,
+   "end": 270.4,
+   "text": "When Jobab died, Husham from the land of the Temanites became king after him."
+  },
+  {
+   "verse": 46,
+   "start": 271.1,
+   "end": 281.04,
+   "text": "When Husham died, Hadad son of Bedad became king after him. Hadad defeated the Midianites in the country of Moab. His city was called Avith."
+  },
+  {
+   "verse": 47,
+   "start": 281.74,
+   "end": 285.8,
+   "text": "When Hadad died, Samlah from Masrekah became king after him."
+  },
+  {
+   "verse": 48,
+   "start": 286.5,
+   "end": 291.23,
+   "text": "When Samlah died, Shaul from Rehoboth on the River became king after him."
+  },
+  {
+   "verse": 49,
+   "start": 291.93,
+   "end": 296.48,
+   "text": "When Shaul died, Baal-Hanan son of Achbor became king after him."
+  },
+  {
+   "verse": 50,
+   "start": 297.18,
+   "end": 307.75,
+   "text": "When Baal-Hanan died, Hadad became king after him. His city was called Pai. His wife was Mehetabel, the daughter of Matred and granddaughter of Mezahab."
+  },
+  {
+   "verse": 51,
+   "start": 308.45,
+   "end": 314.59,
+   "text": "Then Hadad died. The clan chiefs of Edom were: Timna, Aliah, Jetheth,"
+  },
+  {
+   "verse": 52,
+   "start": 315.29,
+   "end": 317.77,
+   "text": "Oholibamah, Elah, Pinon,"
+  },
+  {
+   "verse": 53,
+   "start": 318.47,
+   "end": 320.76,
+   "text": "Kenaz, Teman, Mibzar,"
+  },
+  {
+   "verse": 54,
+   "start": 321.46,
+   "end": 325.1,
+   "text": "Magdiel, and Iram. These were the chiefs of Edom."
+  }
+ ]
+}
