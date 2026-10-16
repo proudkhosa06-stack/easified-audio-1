@@ -1,0 +1,431 @@
+{
+ "book": "Ezra",
+ "chapter": 2,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Ezra-2.mp3",
+ "duration": 365.69,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 12.82,
+   "text": "These are the people of the province who came back from being prisoners. Nebuchadnezzar king of Babylon had taken them away to Babylon. Now they returned to Jerusalem and Judah, each to their own town."
+  },
+  {
+   "verse": 2,
+   "start": 13.52,
+   "end": 27.9,
+   "text": "They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the number of the men of Israel:"
+  },
+  {
+   "verse": 3,
+   "start": 28.6,
+   "end": 32.29,
+   "text": "The descendants of Parosh, two thousand one hundred seventy-two."
+  },
+  {
+   "verse": 4,
+   "start": 32.99,
+   "end": 36.23,
+   "text": "The descendants of Shephatiah, three hundred seventy-two."
+  },
+  {
+   "verse": 5,
+   "start": 36.93,
+   "end": 40.02,
+   "text": "The descendants of Arah, seven hundred seventy-five."
+  },
+  {
+   "verse": 6,
+   "start": 40.72,
+   "end": 46.95,
+   "text": "The descendants of Pahath-Moab, through Jeshua and Joab, two thousand eight hundred twelve."
+  },
+  {
+   "verse": 7,
+   "start": 47.65,
+   "end": 51.48,
+   "text": "The descendants of Elam, one thousand two hundred fifty-four."
+  },
+  {
+   "verse": 8,
+   "start": 52.18,
+   "end": 55.13,
+   "text": "The descendants of Zattu, nine hundred forty-five."
+  },
+  {
+   "verse": 9,
+   "start": 55.83,
+   "end": 58.8,
+   "text": "The descendants of Zaccai, seven hundred sixty."
+  },
+  {
+   "verse": 10,
+   "start": 59.5,
+   "end": 61.93,
+   "text": "The descendants of Bani, six hundred forty-two."
+  },
+  {
+   "verse": 11,
+   "start": 62.63,
+   "end": 65.78,
+   "text": "The descendants of Bebai, six hundred twenty-three."
+  },
+  {
+   "verse": 12,
+   "start": 66.48,
+   "end": 70.41,
+   "text": "The descendants of Azgad, one thousand two hundred twenty-two."
+  },
+  {
+   "verse": 13,
+   "start": 71.11,
+   "end": 74.6,
+   "text": "The descendants of Adonikam, six hundred sixty-six."
+  },
+  {
+   "verse": 14,
+   "start": 75.3,
+   "end": 78.45,
+   "text": "The descendants of Bigvai, two thousand fifty-six."
+  },
+  {
+   "verse": 15,
+   "start": 79.15,
+   "end": 82.55,
+   "text": "The descendants of Adin, four hundred fifty-four."
+  },
+  {
+   "verse": 16,
+   "start": 83.25,
+   "end": 87.02,
+   "text": "The descendants of Ater, through Hezekiah, ninety-eight."
+  },
+  {
+   "verse": 17,
+   "start": 87.72,
+   "end": 90.51,
+   "text": "The descendants of Bezai, three hundred twenty-three."
+  },
+  {
+   "verse": 18,
+   "start": 91.21,
+   "end": 94.01,
+   "text": "The descendants of Jorah, one hundred twelve."
+  },
+  {
+   "verse": 19,
+   "start": 94.71,
+   "end": 97.44,
+   "text": "The descendants of Hashum, two hundred twenty-three."
+  },
+  {
+   "verse": 20,
+   "start": 98.14,
+   "end": 101.17,
+   "text": "The descendants of Gibbar, ninety-five."
+  },
+  {
+   "verse": 21,
+   "start": 101.87,
+   "end": 104.69,
+   "text": "The people of Bethlehem, one hundred twenty-three."
+  },
+  {
+   "verse": 22,
+   "start": 105.39,
+   "end": 107.68,
+   "text": "The men of Netophah, fifty-six."
+  },
+  {
+   "verse": 23,
+   "start": 108.38,
+   "end": 111.35,
+   "text": "The men of Anathoth, one hundred twenty-eight."
+  },
+  {
+   "verse": 24,
+   "start": 112.05,
+   "end": 114.62,
+   "text": "The descendants of Azmaveth, forty-two."
+  },
+  {
+   "verse": 25,
+   "start": 115.32,
+   "end": 120.85,
+   "text": "The people of Kiriath Arim, Chephirah, and Beeroth, seven hundred forty-three."
+  },
+  {
+   "verse": 26,
+   "start": 121.55,
+   "end": 125.17,
+   "text": "The people of Ramah and Geba, six hundred twenty-one."
+  },
+  {
+   "verse": 27,
+   "start": 125.87,
+   "end": 128.67,
+   "text": "The men of Michmas, one hundred twenty-two."
+  },
+  {
+   "verse": 28,
+   "start": 129.37,
+   "end": 132.64,
+   "text": "The men of Bethel and Ai, two hundred twenty-three."
+  },
+  {
+   "verse": 29,
+   "start": 133.34,
+   "end": 135.15,
+   "text": "The people of Nebo, fifty-two."
+  },
+  {
+   "verse": 30,
+   "start": 135.85,
+   "end": 138.75,
+   "text": "The people of Magbish, one hundred fifty-six."
+  },
+  {
+   "verse": 31,
+   "start": 139.45,
+   "end": 144.25,
+   "text": "The descendants of the other Elam, one thousand two hundred fifty-four."
+  },
+  {
+   "verse": 32,
+   "start": 144.95,
+   "end": 147.42,
+   "text": "The descendants of Harim, three hundred twenty."
+  },
+  {
+   "verse": 33,
+   "start": 148.12,
+   "end": 152.13,
+   "text": "The people of Lod, Hadid, and Ono, seven hundred twenty-five."
+  },
+  {
+   "verse": 34,
+   "start": 152.83,
+   "end": 155.62,
+   "text": "The people of Jericho, three hundred forty-five."
+  },
+  {
+   "verse": 35,
+   "start": 156.32,
+   "end": 159.54,
+   "text": "The people of Senaah, three thousand six hundred thirty."
+  },
+  {
+   "verse": 36,
+   "start": 160.24,
+   "end": 166.02,
+   "text": "The priests: the descendants of Jedaiah, from the family of Jeshua, nine hundred seventy-three."
+  },
+  {
+   "verse": 37,
+   "start": 166.72,
+   "end": 170.43,
+   "text": "The descendants of Immer, one thousand fifty-two."
+  },
+  {
+   "verse": 38,
+   "start": 171.13,
+   "end": 175.28,
+   "text": "The descendants of Pashhur, one thousand two hundred forty-seven."
+  },
+  {
+   "verse": 39,
+   "start": 175.98,
+   "end": 179.01,
+   "text": "The descendants of Harim, one thousand seventeen."
+  },
+  {
+   "verse": 40,
+   "start": 179.71,
+   "end": 187.45,
+   "text": "The Levites: the descendants of Jeshua and Kadmiel, from the family of Hodaviah, seventy-four."
+  },
+  {
+   "verse": 41,
+   "start": 188.15,
+   "end": 191.99,
+   "text": "The singers: the descendants of Asaph, one hundred twenty-eight."
+  },
+  {
+   "verse": 42,
+   "start": 192.69,
+   "end": 203.6,
+   "text": "The gatekeepers: the descendants of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, one hundred thirty-nine in all."
+  },
+  {
+   "verse": 43,
+   "start": 204.3,
+   "end": 209.57,
+   "text": "The temple servants: the descendants of Ziha, Hasupha, Tabbaoth,"
+  },
+  {
+   "verse": 44,
+   "start": 210.27,
+   "end": 212.45,
+   "text": "Keros, Siaha, Padon,"
+  },
+  {
+   "verse": 45,
+   "start": 213.15,
+   "end": 215.96,
+   "text": "Lebanah, Hagabah, Akkub,"
+  },
+  {
+   "verse": 46,
+   "start": 216.66,
+   "end": 219.4,
+   "text": "Hagab, Shamlai, Hanan,"
+  },
+  {
+   "verse": 47,
+   "start": 220.1,
+   "end": 222.46,
+   "text": "Giddel, Gahar, Reaiah,"
+  },
+  {
+   "verse": 48,
+   "start": 223.16,
+   "end": 225.69,
+   "text": "Rezin, Nekoda, Gazzam,"
+  },
+  {
+   "verse": 49,
+   "start": 226.39,
+   "end": 228.5,
+   "text": "Uzza, Paseah, Besai,"
+  },
+  {
+   "verse": 50,
+   "start": 229.2,
+   "end": 231.68,
+   "text": "Asnah, Meunim, Nephisim,"
+  },
+  {
+   "verse": 51,
+   "start": 232.38,
+   "end": 234.89,
+   "text": "Bakbuk, Hakupha, Harhur,"
+  },
+  {
+   "verse": 52,
+   "start": 235.59,
+   "end": 238.47,
+   "text": "Bazluth, Mehida, Harsha,"
+  },
+  {
+   "verse": 53,
+   "start": 239.17,
+   "end": 241.56,
+   "text": "Barkos, Sisera, Temah,"
+  },
+  {
+   "verse": 54,
+   "start": 242.26,
+   "end": 244.08,
+   "text": "Neziah, and Hatipha."
+  },
+  {
+   "verse": 55,
+   "start": 244.78,
+   "end": 251.19,
+   "text": "The descendants of Solomon's servants: the descendants of Sotai, Hassophereth, Peruda,"
+  },
+  {
+   "verse": 56,
+   "start": 251.89,
+   "end": 254.25,
+   "text": "Jaalah, Darkon, Giddel,"
+  },
+  {
+   "verse": 57,
+   "start": 254.95,
+   "end": 259.45,
+   "text": "Shephatiah, Hattil, Pochereth Hazzebaim, and Ami."
+  },
+  {
+   "verse": 58,
+   "start": 260.15,
+   "end": 265.35,
+   "text": "All the temple servants and the descendants of Solomon's servants were three hundred ninety-two."
+  },
+  {
+   "verse": 59,
+   "start": 266.05,
+   "end": 277.75,
+   "text": "Some people came up from the towns of Tel Melah, Tel Harsha, Cherub, Addan, and Immer, but they could not prove that their families were descended from Israel."
+  },
+  {
+   "verse": 60,
+   "start": 278.45,
+   "end": 284.06,
+   "text": "They were the descendants of Delaiah, Tobiah, and Nekoda, six hundred fifty-two."
+  },
+  {
+   "verse": 61,
+   "start": 284.76,
+   "end": 295.08,
+   "text": "From the priests: the descendants of Habaiah, Hakkoz, and Barzillai. This Barzillai had married a daughter of Barzillai from Gilead and took his family name."
+  },
+  {
+   "verse": 62,
+   "start": 295.78,
+   "end": 302.59,
+   "text": "They searched for their names in the family records, but they could not find them. So they were not allowed to serve as priests."
+  },
+  {
+   "verse": 63,
+   "start": 303.29,
+   "end": 311.21,
+   "text": "The governor told them not to eat the most holy food until there was a priest who could ask God using the Urim and Thummim."
+  },
+  {
+   "verse": 64,
+   "start": 311.91,
+   "end": 315.83,
+   "text": "The whole group together was forty-two thousand three hundred sixty people,"
+  },
+  {
+   "verse": 65,
+   "start": 316.53,
+   "end": 323.62,
+   "text": "besides their seven thousand three hundred thirty-seven male and female servants. They also had two hundred men and women singers."
+  },
+  {
+   "verse": 66,
+   "start": 324.32,
+   "end": 328.09,
+   "text": "They had seven hundred thirty-six horses, two hundred forty-five mules,"
+  },
+  {
+   "verse": 67,
+   "start": 328.79,
+   "end": 333.36,
+   "text": "four hundred thirty-five camels, and six thousand seven hundred twenty donkeys."
+  },
+  {
+   "verse": 68,
+   "start": 334.06,
+   "end": 341.7,
+   "text": "When they arrived at the LORD's temple in Jerusalem, some of the family leaders gave gifts to rebuild God's temple on its old site."
+  },
+  {
+   "verse": 69,
+   "start": 342.4,
+   "end": 352.26,
+   "text": "They gave as much as they could to the building fund: about five hundred kilograms of gold, about three tonnes of silver, and one hundred robes for the priests."
+  },
+  {
+   "verse": 70,
+   "start": 352.96,
+   "end": 364.64,
+   "text": "So the priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants settled in their own towns, and all the rest of Israel lived in their towns."
+  }
+ ]
+}
