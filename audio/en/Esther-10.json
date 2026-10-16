@@ -1,0 +1,29 @@
+{
+ "book": "Esther",
+ "chapter": 10,
+ "language": "en",
+ "reader": "Ntsako Khosa",
+ "audio": "Esther-10.mp3",
+ "duration": 35.21,
+ "credit": "Read by Ntsako Khosa, voice generated with Chatterbox (MIT) from the reader's own recording; audio contains an inaudible watermark",
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 5.38,
+   "text": "King Xerxes made the people of the whole land and the islands of the sea pay taxes."
+  },
+  {
+   "verse": 2,
+   "start": 6.08,
+   "end": 17.83,
+   "text": "Everything he did by his power and strength, and the full story of how great Mordecai became when the king promoted him, are written in the book of the records of the kings of Media and Persia."
+  },
+  {
+   "verse": 3,
+   "start": 18.53,
+   "end": 34.16,
+   "text": "Mordecai the Jew was second in power only to King Xerxes. He was important among the Jews and well liked by all his fellow Jews, because he worked for the good of his people and spoke up for the peace and safety of all their descendants."
+  }
+ ]
+}
